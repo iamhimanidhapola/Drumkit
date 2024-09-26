@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/web development/jsfiles"
+		},
+		{
+			"path": "../../DOM+Challenge+Starting+Files"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Dicee+Challenge+-+Starting+Files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Drum Kit Starting Files"
+	}
+}
